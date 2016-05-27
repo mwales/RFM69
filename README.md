@@ -1,10 +1,9 @@
-# RFM69 Library  [![Build Status](https://travis-ci.org/LowPowerLab/RFM69.svg)](https://travis-ci.org/LowPowerLab/RFM69)
+# RFM69 Library for Linux using Arduino API
 
-By Felix Rusu, [LowPowerLab.com](http://LowPowerLab.com)
+Original library by Felix Rusu, [LowPowerLab.com](http://LowPowerLab.com).  Going to attempt to adapt it to my custom Arduino Linux library for use on Raspberry Pi projects.
 <br/>
 RFM69 library for RFM69W, RFM69HW, RFM69CW, RFM69HCW (semtech SX1231, SX1231H)
 <br/>
-The latest examples, new features and bug fixes are found in the [original repository](https://github.com/LowPowerLab/RFM69) of this library.
 
 ##License
 GPL 3.0, please see the [License.txt](https://github.com/LowPowerLab/RFM69/blob/master/License.txt) file for details. Be sure to include the same license with any fork or redistribution of this library.
